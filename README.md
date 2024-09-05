@@ -4,6 +4,7 @@ This is a contact management app built using ReactJS, Typescript, TailwindCSS, R
 The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
 ### Deployed Link : -
+https://covid19-contact-app.vercel.app/charts-and-maps
 
 ### APIs Used
 
